@@ -2,7 +2,7 @@
 
 ## About me 🚀
 
-I'm a Software Engineer specializing in backend development and software architecture. I enjoy a lot coding, specially in Java and Python and I hope we can know each other, sharing knowledge and making some art together.
+I’m a Software Engineer with a strong focus on backend development and software architecture. I’m passionate about coding, especially in Java and Python, and enjoy collaborating to solve complex problems and build scalable systems. Let’s connect, share knowledge, and maybe even create something amazing together!
 
 
 > [!NOTE]
