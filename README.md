@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Walterio 👋🏻👨🏻‍💻
 
-<!--
-**waltercrdz/waltercrdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 🚀
 
-Here are some ideas to get you started:
+I'm a Software Engineer specializing in backend development and software architecture. I enjoy a lot coding, specially in Java and Python and I hope we can know each other, sharing knowledge and making some art together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> [!NOTE]
+> I'm pretty new here so this profile is WIP.
+
+## Let’s talk! 🌎
+- 📬 <a href="waltercrdz@gmail.com">Email</a>
+- 🤵🏻‍♂️ <a href="https://www.linkedin.com/in/waltercrdz/">Linkedin</a>
+- 🌟 <a href="https://x.com/walteriodev">X</a>
+- 📖 <a href="https://dev.to/waltercrdz">Dev</a>
