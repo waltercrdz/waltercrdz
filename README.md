@@ -1,8 +1,5 @@
 # Hi, I'm Walterio 👋🏻👨🏻‍💻
 
-> [!NOTE]
-> I'm pretty new here. This profile is WIP.
-
 I’m a Software Engineer with a strong focus on backend development and software architecture. I’m passionate about coding, especially in Java and Python, and enjoy collaborating to solve complex problems and build scalable systems. Let’s connect, share knowledge, and maybe even create something amazing together!
 
 ## Tech 🚀
